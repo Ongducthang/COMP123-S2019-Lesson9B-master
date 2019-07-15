@@ -21,5 +21,10 @@ namespace COMP123_S2019_Lesson9B
         {
 
         }
+
+        private void ResultLabel_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

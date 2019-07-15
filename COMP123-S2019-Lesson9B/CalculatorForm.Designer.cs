@@ -236,8 +236,9 @@
             this.ResultLabel.Name = "ResultLabel";
             this.ResultLabel.Size = new System.Drawing.Size(769, 84);
             this.ResultLabel.TabIndex = 1;
-            this.ResultLabel.Text = "1293809843";
+            this.ResultLabel.Text = "0";
             this.ResultLabel.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.ResultLabel.Click += new System.EventHandler(this.ResultLabel_Click);
             // 
             // CalculatorForm
             // 
